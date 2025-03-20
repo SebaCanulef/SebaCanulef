@@ -1,6 +1,6 @@
 # ¡Hola! Soy Sebastián Cañulef 👋
 
-![Banner](https://raw.githubusercontent.com/SebaCanulef/SebaCanulef/main/banner.png)
+![Banner](https://raw.githubusercontent.com/SebaCanulef/SebaCanulef/main/banner2.png)
  
 Ingeniero Informático y desarrollador web apasionado por la tecnología. Me encanta crear soluciones innovadoras y explorar nuevas herramientas para resolver problemas del mundo real.
 
